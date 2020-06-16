@@ -1,0 +1,1 @@
+Template.create!(name: "tp1", content: 'coucou', variable_de_block: "coucou")

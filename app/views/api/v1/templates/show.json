@@ -1,0 +1,84 @@
+{
+    "template": [
+        {
+            "type": "h1Bold",
+            "value": "FAKE CONTRACT"
+        },
+        {
+            "type": "h2",
+            "value": "ENTREE"
+        },
+        {
+            "type": "pBold",
+            "value": "Quelle est la dénomination sociale de votre entreprise ?"
+        },
+        {
+            "type": "p",
+            "value": "Quelle est la forme sociale de votre entreprise ? au capital de Quel est le montant du capital social de votre société ? euros, dont le siège social est situé Où se situe le siège social de votre entreprise ? et inscrite au Registre du Commerce et des Sociétés de Quelle est la ville auprès du greffe de laquelle est enregistrée votre entreprise ? sous le numéro RCS Quelle est la dénomination sociale de votre entreprise ? représentée par Quels sont les prénom et nom du représentant de votre entreprise ? agissant en qualité de Quelle est la fonction du représentant de votre entreprise ?"
+        },
+        {
+            "type": "p",
+            "value": "Dénommée la « "
+        },
+        {
+            "type": "pBold",
+            "value": "Partie A"
+        },
+        {
+            "type": "p",
+            "value": "» d’une part,"
+        },
+        {
+            "type": "h2Bold",
+            "value": "ET"
+        },
+        {
+            "type": "pBold",
+            "value": "Quel est la dénomination sociale de votre co-contractant ?"
+        },
+        {
+            "type": "p",
+            "value": "{{Quelle est la forme sociale de votre co-contractant ?}}, au capital de {{Quel est le montant du capital du co-contractant ?}} euros, dont le siège social est situé {{Où se situe le siège social de votre co-contractant ?}} et inscrite au Registre du Commerce et des Sociétés de {{Quelle est la ville auprès du greffe de laquelle est enregistrée l'entreprise co-contractante ?}} sous le numéro RCS {{Quel est le numéro de RCS de votre co-contractant ?}}, représentée par {{Quels sont les prénom et nom du représentant de votre co-contractant ?}}, agissant en qualité de {{Quelle est la fonction du représentant de votre co-contractant ?}}"
+        },
+        {
+            "type": "p",
+            "value": "Dénommée la «"
+        },
+        {
+            "type": "pBold",
+            "value": " Partie B "
+        },
+        {
+            "type": "pBold",
+            "value": "», d’autre part."
+        },
+        {
+            "type": "p",
+            "value": "La Partie A et la Partie B sont dénommés collectivement les « Parties » et chacune individuellement la « Partie » à moins qu’elle ne soit spécifiquement désignée par l’une des dénominations ci-dessus."
+        },
+        {
+            "type": "pbold",
+            "value": "Préambule"
+        },
+        {
+            "type": "p",
+            "value": "Les Parties conviennent de conclure le présent contrat, ci-après le « Contrat » dans les termes suivants :"
+        },
+        {
+            "type": "pbold",
+            "value": "Article - Obligations des Parties"
+        },
+        {
+            "type": "p",
+            "value": "Les Parties ne s’engagent à aucune obligation particulière au terme du présent contrat."
+        },
+        {
+            "type": "pbold",
+            "value": "Article - Durée."
+        },
+        {
+            "type": "p",
+            "value": "Le présent Contrat entre en vigueur au jour de sa signature et pour une durée de 2 (deux) semaines à compter des présentes."
+        }
+    ]
+}
