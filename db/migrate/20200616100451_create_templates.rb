@@ -4,7 +4,7 @@ class CreateTemplates < ActiveRecord::Migration[6.0]
       t.string :name
       t.text :content
       t.text :variable_de_block
-      
+      t.json :json
       t.timestamps
     end
   end
